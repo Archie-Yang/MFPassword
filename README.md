@@ -2,7 +2,7 @@
 
 .NET standard library for MIFARE password(MF_Password) generation from MIFARE keys A and B.
 
-> MIFARE password is generated from MIFARE keys A and B, this password can be use to access MIFARE memory in Java Card(since Java Card 2.2.2 if card supported).
+> MIFARE password is generated from MIFARE keys A and B, it can be used to access MIFARE memory in Java Card applet(since Java Card 2.2.2 if card supported).
 
 ## Projects
 
